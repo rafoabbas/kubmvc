@@ -2,8 +2,8 @@
 
 $router->add('/',function (){
 
-    return view('test');
+    return view('welcome');
 
 });
 
-$router->add('test','TestController@index');
+//$router->add('test','TestController@index');

@@ -15,7 +15,8 @@ class TestController extends Controller
 
     public function index(){
 
-        echo 'TEST Controller';
+        return view('welcome');
+
     }
 
 
