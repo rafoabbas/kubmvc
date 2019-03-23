@@ -10,11 +10,12 @@ namespace App\Controllers;
 
 
 
-class TestController extends Controller
+class HomeController extends Controller
 {
 
     public function index(){
 
+        //view
         return view('welcome');
 
     }

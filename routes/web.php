@@ -6,4 +6,4 @@ $router->add('/',function (){
 
 });
 
-//$router->add('test','TestController@index');
+$router->add('test','HomeController@index');
