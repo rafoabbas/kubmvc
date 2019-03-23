@@ -1,0 +1,23 @@
+{
+    "name": "rafoabbas/kubmvc",
+    "description": "Simple PHP mvc",
+    "license": "MIT",
+    "keywords": [
+        "framework",
+        "php",
+        "mvc"
+    ],
+    "authors": [
+        {
+            "name": "Rauf Abbas",
+            "email": "rafo.abbas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kubpro/framework": "dev-master"
+    },
+    "autoload": {
+        "App\\": "app/"
+    }
+}
