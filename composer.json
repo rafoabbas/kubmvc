@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "kubpro/framework": "dev-master"
+        "kubpro/framework": "^1.0"
     },
 
     "autoload": {
